@@ -1,0 +1,18 @@
+12345678@
+123
+Alextest
+ËåîíèäÒåñò
+test.test@test.ru
+test@test
+test@test.ru
+1234567890(30)5678901234567890
+wqertetery(300)wqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqertetery
+asdfgfhgfhj(30)asdfgfhgfhjhj
+@#$#%$^%^*”
+”SELECT * from users”
+1.2e+2
+TRUE
+Infinity
+0xba
+2 5
+PaSSword
