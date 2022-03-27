@@ -1,18 +1,29 @@
 12345678@
 123
 Alextest
-ÀÂÓÌË‰“ÂÒÚ
+√ã√•√Æ√≠√®√§√í√•√±√≤
 test.test@test.ru
 test@test
 test@test.ru
 1234567890(30)5678901234567890
 wqertetery(300)wqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqerteterywqertetery
 asdfgfhgfhj(30)asdfgfhgfhjhj
-@#$#%$^%^*î
-îSELECT * from usersî
+¬´¬ª‚Äò~!@#$%^&*()?>,./\<][ /*<!‚Äî¬´¬ª, ¬´${code}¬ª;‚Äî>
+‚ÄùSELECT * from users‚Äù
 1.2e+2
 TRUE
 Infinity
 0xba
 2 5
 PaSSword
+–∞dmin
+<script>alert(123)</script>
+29.02.1900 
+32.12.2000
+01.13.2000
+{token:etwyu34568746957946586}
+8-913-452-08-08
+89134520808
+0-913-452-00-00
+8-913-4444-08-0s
+s-913-452-08-08
