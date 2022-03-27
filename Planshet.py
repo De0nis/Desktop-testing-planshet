@@ -50,7 +50,6 @@ class Example(QWidget):
          for i in range(len(masnames)):
              if masnames[i][0:25] == button:
                  clipboard.setText(masnames[i])
-
 #launcher
 if __name__ == '__main__':
     app = QApplication(sys.argv)
