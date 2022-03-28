@@ -2,17 +2,11 @@ import sys
 from PyQt5.QtWidgets import (QWidget, QGridLayout, QRadioButton, QApplication, QFileDialog)
 from PyQt5.QtCore import *
 """
-Program for desktop testing. it copies to the clipboard the value selected from the list for later pasting. 
+Program for desktop programming fields testing. It copies to the clipboard the value selected from the list for later pasting. 
 For correct working need you need to create a test suite file where the values listed, 
 one string-one value/.txt format/
-Example:
-12345678
-Alextest
-test.test@test.ru
-test@test
-@#$#%$^%^*”
-”SELECT * from users”
-Every start you will choose a test suite file
+
+Every start you will choose a test suite file location
 """
 masnames = []
 class Example(QWidget):
