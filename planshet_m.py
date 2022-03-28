@@ -4,12 +4,12 @@ from PyQt5.QtCore import *
 """
 Program for desktop programming fields testing. It copies to the clipboard the value selected from the list for later pasting. 
 For correct working need you need to create a test suite file where the values listed, 
-one string-one value/.txt format/
-
+one string-one value/.txt format/  
+Need install PyQt5
 Every start you will choose a test suite file location
 """
 masnames = []
-class Example(QWidget):
+class Interface(QWidget):
 
     def __init__(self):
         super().__init__()
@@ -60,5 +60,5 @@ class Example(QWidget):
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
-    ex = Example()
+    ex = Interface()
     sys.exit(app.exec_())
