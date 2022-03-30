@@ -7,7 +7,7 @@ Every start you will choose a test suite file location
 """
 import sys
 from PyQt5.QtWidgets import (QWidget, QGridLayout, QRadioButton, QApplication, QFileDialog)
-from PyQt5.QtCore import *
+from PyQt5 import QtCore 
 masnames = []
 class Interface(QWidget):
 
@@ -47,6 +47,7 @@ class Interface(QWidget):
             cnt = cnt + 1
             button.toggled.connect(lambda: self.btnstate())
         self.move(300, 250)
+        self.setWindowFlag(QtCore.Qt.WindowStaysOnTopHint)
         self.setWindowTitle('планшет')
         self.show()
 
